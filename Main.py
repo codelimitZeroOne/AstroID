@@ -65,15 +65,8 @@ minMass = 1e28
 # Maximum mass the mass slider allows the body to be
 maxMass = 1e32
 
-""" CAN'T REMEMBER WHAT THIS DOES TBH"""
-""" COME BACK TO IT"""
-""""""
-""""""
 currentMin = 0
 currentMax = 0
-
-""""""
-""""""
 
 # If the user is left clicking then this variable turns true
 # Used for the system/body buttons
